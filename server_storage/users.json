@@ -1,0 +1,32 @@
+[
+  {
+    "id": "usr_admin_default",
+    "email": "admin@biti.edu.vn",
+    "fullName": "Quản Trị Viên Hệ Thống",
+    "role": "admin",
+    "passwordHash": "7465e9463e9684c118a390b54391f9a28162d03288fa414b4b1c5779f0f0b632a898c85083f7b4b5d4efe12db5b52869624025dcc087bb710ca13274414e3b19",
+    "salt": "d1ed97c81e039e3aaa9513d32251db0b",
+    "createdAt": "2026-10-23T08:05:36.227Z",
+    "lastLogin": "2026-10-23T08:07:04.202Z"
+  },
+  {
+    "id": "usr_teacher_default",
+    "email": "giaovien@biti.edu.vn",
+    "fullName": "Cô Mai Lan (Giáo Viên Tin Học 3)",
+    "role": "teacher",
+    "passwordHash": "8bea777986327e57bc5ffdfa8b941388c1458d9bfc4dd10bade6f7f4785bda7c8561334f606efb04400b83fb7321c3703aedaa72ac0fe8f975db756dbedbd5fc",
+    "salt": "c5b650c1ce06f8d8c02bffbd98ab511a",
+    "createdAt": "2026-10-23T08:05:36.284Z",
+    "lastLogin": "2026-10-23T08:08:51.933Z"
+  },
+  {
+    "id": "usr_1792742756444_6dqv",
+    "email": "an.student@gmail.com",
+    "fullName": "Em Nguyễn Văn An",
+    "role": "student",
+    "passwordHash": "e381f9ddabc89f48d7610a2969518a6707b0035eddfe62ecad0b0d945ecfc03121d204673ae3dd8ed8405355a72735326a199fad1c34bfd725881130cbed0042",
+    "salt": "6c2e1fc4b6c3ee5f1396e120dc52a87b",
+    "createdAt": "2026-10-23T08:05:56.444Z",
+    "lastLogin": "2026-10-23T08:05:56.444Z"
+  }
+]

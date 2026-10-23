@@ -1,0 +1,11 @@
+{
+  "name": "ROBOT BITI – BẠN ĐỒNG HÀNH TIN HỌC 3",
+  "description": "Học Tin học thật vui – Khám phá thế giới số cùng BiTi! Ứng dụng AI giáo dục đa phương thức dành cho học sinh lớp 3",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "action": "DEACTIVATE",
+    "userId": "usr_teacher_default",
+    "userEmail": "giaovien@biti.edu.vn",
+    "userName": "Cô Mai Lan (Giáo Viên Tin Học 3)",
+    "target": "Bài 5: Tập gõ bàn phím bằng 10 ngón tay",
+    "details": "Đã chuyển trạng thái tài liệu [Bài 5: Tập gõ bàn phím bằng 10 ngón tay] sang [INACTIVE]",
+    "id": "log_1792742931960_k0h0i",
+    "timestamp": "2026-10-23T08:08:51.960Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_teacher_default",
+    "userEmail": "giaovien@biti.edu.vn",
+    "userName": "Cô Mai Lan (Giáo Viên Tin Học 3)",
+    "details": "Đăng nhập thành công với vai trò: TEACHER",
+    "id": "log_1792742931934_9lxwj",
+    "timestamp": "2026-10-23T08:08:51.934Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_teacher_default",
+    "userEmail": "giaovien@biti.edu.vn",
+    "userName": "Cô Mai Lan (Giáo Viên Tin Học 3)",
+    "details": "Đăng nhập thành công với vai trò: TEACHER",
+    "id": "log_1792742899586_sxyva",
+    "timestamp": "2026-10-23T08:08:19.586Z"
+  },
+  {
+    "action": "UPLOAD",
+    "userId": "usr_teacher_default",
+    "userEmail": "giaovien@biti.edu.vn",
+    "userName": "Cô Mai Lan (Giáo Viên Tin Học 3)",
+    "target": "Bài 5: Tập gõ bàn phím bằng 10 ngón tay",
+    "details": "Đã tải lên và lập chỉ mục thành công tệp tap_go_10_ngon.txt (1 đoạn RAG)",
+    "id": "log_1792742885374_x9rf7",
+    "timestamp": "2026-10-23T08:08:05.374Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_teacher_default",
+    "userEmail": "giaovien@biti.edu.vn",
+    "userName": "Cô Mai Lan (Giáo Viên Tin Học 3)",
+    "details": "Đăng nhập thành công với vai trò: TEACHER",
+    "id": "log_1792742885355_zh6o1",
+    "timestamp": "2026-10-23T08:08:05.355Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_teacher_default",
+    "userEmail": "giaovien@biti.edu.vn",
+    "userName": "Cô Mai Lan (Giáo Viên Tin Học 3)",
+    "details": "Đăng nhập thành công với vai trò: TEACHER",
+    "id": "log_1792742843974_qhdqs",
+    "timestamp": "2026-10-23T08:07:23.974Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_teacher_default",
+    "userEmail": "giaovien@biti.edu.vn",
+    "userName": "Cô Mai Lan (Giáo Viên Tin Học 3)",
+    "details": "Đăng nhập thành công với vai trò: TEACHER",
+    "id": "log_1792742836837_iwdgj",
+    "timestamp": "2026-10-23T08:07:16.837Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_admin_default",
+    "userEmail": "admin@biti.edu.vn",
+    "userName": "Quản Trị Viên Hệ Thống",
+    "details": "Đăng nhập thành công với vai trò: ADMIN",
+    "id": "log_1792742824203_5stav",
+    "timestamp": "2026-10-23T08:07:04.203Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_1792742756444_6dqv",
+    "userEmail": "an.student@gmail.com",
+    "userName": "Em Nguyễn Văn An",
+    "details": "Đăng ký tài khoản mới (Học sinh)",
+    "id": "log_1792742756445_r3efm",
+    "timestamp": "2026-10-23T08:05:56.445Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_admin_default",
+    "userEmail": "admin@biti.edu.vn",
+    "userName": "Quản Trị Viên Hệ Thống",
+    "details": "Đăng nhập thành công với vai trò: ADMIN",
+    "id": "log_1792742756368_ts3g8",
+    "timestamp": "2026-10-23T08:05:56.368Z"
+  },
+  {
+    "action": "LOGIN",
+    "userId": "usr_admin_default",
+    "userEmail": "admin@biti.edu.vn",
+    "userName": "Quản Trị Viên Hệ Thống",
+    "details": "Đăng nhập thành công với vai trò: ADMIN",
+    "id": "log_1792742742564_3r5kt",
+    "timestamp": "2026-10-23T08:05:42.564Z"
+  },
+  {
+    "action": "ROLE_CHANGE",
+    "userId": "system",
+    "userEmail": "system@biti.edu.vn",
+    "userName": "Hệ Thống",
+    "details": "Khởi tạo tài khoản quản trị admin@biti.edu.vn và giáo viên mẫu giaovien@biti.edu.vn",
+    "id": "log_1792742736285_b5mdd",
+    "timestamp": "2026-10-23T08:05:36.285Z"
+  }
+]

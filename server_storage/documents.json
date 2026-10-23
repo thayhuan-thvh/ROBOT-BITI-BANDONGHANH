@@ -1,0 +1,48 @@
+[
+  {
+    "id": "doc_1792742885372_06fl",
+    "fileName": "tap_go_10_ngon.txt",
+    "fileSize": 444,
+    "fileType": "txt",
+    "title": "Bài 5: Tập gõ bàn phím bằng 10 ngón tay",
+    "grade": 3,
+    "subject": "Tin học",
+    "bookSeries": "ket_noi_tri_thuc",
+    "topic": "Chủ đề A: Máy tính và em",
+    "lesson": "Bài 5: Tập gõ 10 ngón",
+    "uploadedBy": {
+      "id": "usr_teacher_default",
+      "email": "giaovien@biti.edu.vn",
+      "fullName": "Cô Mai Lan (Giáo Viên Tin Học 3)"
+    },
+    "createdAt": "2026-10-23T08:08:05.372Z",
+    "updatedAt": "2026-10-23T08:08:51.960Z",
+    "processingStatus": "ready",
+    "usageStatus": "inactive",
+    "totalChunks": 1,
+    "extractedSnippet": "Bài 5: Tập gõ bàn phím bằng 10 ngón tay.\n\nKhu vực chính của bàn phím gồm 5 hàng phím: Hàng phím số, Hàng phím trên, Hàng phím cơ sở, Hàng phím dưới và Hàng phím chứa phím cách.\nHai phím F và J trên hàng phím cơ sở có gờ nhỏ để ngón trỏ đặt vào làm điểm tựa định vị bàn tay.\n\nLợi ích khi gõ 10 ngón: g..."
+  },
+  {
+    "id": "doc_sgk_kntt_lop3",
+    "fileName": "Tin_Hoc_3_Ket_Noi_Tri_Thuc_Chuan_GDPT2018.txt",
+    "fileSize": 48200,
+    "fileType": "txt",
+    "title": "Sách giáo khoa Tin học 3 – Kết nối tri thức với cuộc sống (Bộ chuẩn GDPT 2018)",
+    "grade": 3,
+    "subject": "Tin học",
+    "bookSeries": "ket_noi_tri_thuc",
+    "topic": "Chương trình GDPT 2018",
+    "lesson": "Toàn bộ 13 bài học cơ bản",
+    "uploadedBy": {
+      "id": "usr_admin_default",
+      "email": "admin@biti.edu.vn",
+      "fullName": "Quản Trị Viên Hệ Thống"
+    },
+    "createdAt": "2026-10-23T08:05:36.285Z",
+    "updatedAt": "2026-10-23T08:05:36.285Z",
+    "processingStatus": "ready",
+    "usageStatus": "active",
+    "totalChunks": 6,
+    "extractedSnippet": "Sách giáo khoa Tin học 3 gồm 6 chủ đề chính: Chủ đề A (Máy tính và em: Bàn phím, Chuột, Thân máy, Màn hình, Tư thế ngồi đúng); Chủ đề B (Mạng Internet và an toàn số)..."
+  }
+]

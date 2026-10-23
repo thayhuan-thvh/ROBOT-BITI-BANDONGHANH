@@ -1,0 +1,6 @@
+Bài 5: Tập gõ bàn phím bằng 10 ngón tay.
+
+Khu vực chính của bàn phím gồm 5 hàng phím: Hàng phím số, Hàng phím trên, Hàng phím cơ sở, Hàng phím dưới và Hàng phím chứa phím cách.
+Hai phím F và J trên hàng phím cơ sở có gờ nhỏ để ngón trỏ đặt vào làm điểm tựa định vị bàn tay.
+
+Lợi ích khi gõ 10 ngón: gõ nhanh hơn, chính xác hơn và không bị mỏi mắt.
